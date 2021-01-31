@@ -17,6 +17,7 @@ body, html {
 	font-family: 'Ubuntu', sans-serif;
 	color: #0f383e;
 	text-align: center;
+	overflow: hidden;
 }
     
 .holder {
